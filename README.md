@@ -6,4 +6,4 @@
 2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
 
 ## Результат роботи програми
-<img src="https://github.com/ppc-ntu-khpi/tui-lab2-34-idjis/blob/master/tui.PNG" width="50%"/>
+<img src="https://github.com/ppc-ntu-khpi/tui-lab2-34-idjis/blob/master/report.PNG" width="50%"/>
